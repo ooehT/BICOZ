@@ -1,33 +1,52 @@
 # TP-engenharia-2
-USUARIOS- moradores da republica- prestadores de serviço- admin
-Status de Disponibilidade :
-○ História: Como prestador de serviço, eu quero um botão simples para 
-alternar meu status entre "Disponível" e "Ocupado", para que os clientes 
-saibam se podem me ligar naquele momento.
-○ Critérios de Aceite: O botão deve ficar na tela inicial do prestador; O status 
-deve atualizar em tempo real no banco de dados; O status deve ter cores 
-indicativas (verde para disponível, vermelho para ocupado).
-● Cadastro de Perfil:
-○ História: Como prestador de serviço, eu quero criar um perfil com meu nome, 
-ofício (ex: encanador) e telefone, para que os moradores de república 
-possam entrar em contato.
-○ Critérios de Aceite: O sistema deve validar se o telefone tem 11 dígitos; Deve 
-haver uma lista pré-definida de ofícios para escolher.
-Para o Morador de República:
-● Busca de Serviços:
-○ História: Como morador de república, eu quero filtrar os profissionais por 
-categoria (ex: gás, elétrica, frete), para encontrar rapidamente o serviço que 
-preciso.
-○ Critérios de Aceite: A tela deve mostrar ícones com as categorias; Ao clicar, 
-deve listar apenas os profissionais daquela área.
-● Visualização de Disponibilidade:
-○ História: Como cliente, eu quero que a lista de profissionais mostre primeiro 
-os que estão com status "Disponível", para que eu consiga resolver minha 
-urgência mais rápido.
-○ Critérios de Aceite: A ordenação padrão da lista deve ser por disponibilidade; 
-Profissionais ocupados devem aparecer no final da lista ou com a foto 
-acinzentada.
-● Avaliação de Confiança (Opcional para o futuro):
-○ História: Como morador, eu quero ver uma nota (1 a 5 estrelas) no perfil do 
-prestador, para que eu tenha segurança de colocar aquela pessoa dentro da 
-minha república
+Plataforma de Servicos para Republicas
+
+Este projeto e uma aplicacao desenvolvida para conectar rapidamente Moradores de Republica a Prestadores de Servico de confianca para resolver necessidades diarias e urgencias (como problemas eletricos, gas, fretes, etc.).
+
+Tipos de Usuarios
+
+O sistema possui tres tipos principais de usuarios:
+
+Moradores da Republica (Clientes): Usuarios que buscam servicos rapidos e confiaveis.
+
+Prestadores de Servico: Profissionais que oferecem servicos de manutencao, frete, etc.
+
+Admin: Gerenciadores da plataforma.
+
+Funcionalidades Principais
+
+Para o Prestador de Servico
+
+Status de Disponibilidade em Tempo Real
+
+Descricao: Botao simples na tela inicial para alternar o status de trabalho entre "Disponivel" e "Ocupado".
+
+Regras de Negocio: O status e atualizado em tempo real no banco de dados.
+
+UI/UX: Cores indicativas claras (Verde para Disponivel, Vermelho para Ocupado).
+
+Cadastro de Perfil Profissional
+
+Descricao: Criacao de perfil contendo Nome, Oficio (ex: encanador, eletricista) e Telefone.
+
+Regras de Negocio: Validacao rigorosa de telefone (exigencia de 11 digitos) e selecao de oficios baseada em uma lista pre-definida.
+
+Para o Morador de Republica (Cliente)
+
+Busca e Filtro de Servicos
+
+Descricao: Navegacao por categorias de servicos (ex: Gas, Eletrica, Frete).
+
+UI/UX: Interface intuitiva utilizando icones para representar cada categoria. Ao clicar, a lista exibe apenas os profissionais da area selecionada.
+
+Visualizacao Baseada em Disponibilidade
+
+Descricao: Otimizacao para urgencias, garantindo que o cliente encontre quem pode atende-lo imediatamente.
+
+Regras de Negocio: A ordenacao padrao da lista prioriza profissionais com status "Disponivel".
+
+UI/UX: Profissionais "Ocupados" aparecem no final da lista, destacados com fotos acinzentadas.
+
+Proximos Passos (Backlog Futuro)
+
+Avaliacao de Confianca (Sistema de Reviews): Permitir que os moradores avaliem os prestadores com uma nota de 1 a 5 estrelas. O objetivo e aumentar a seguranca dos estudantes ao permitir a entrada de prestadores nas republicas.

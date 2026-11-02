@@ -13,7 +13,7 @@
 
 | Sprint | Início | Fim | Objetivo | Milestone |
 |--------|--------|-----|----------|-----------|
-| 1 | 03/11/2026 | 16/11/2026 | Prestador altera status em tempo real e cadastra perfil; Morador visualiza lista priorizada | [Sprint 1](https://github.com/ooehT/BICOZ/milestone/2) |
+| 1 | 31/10/2026 | 03/11/2026 | Prestador altera status em tempo real e cadastra perfil; Morador visualiza lista priorizada | [Sprint 1](https://github.com/ooehT/BICOZ/milestone/2) |
 | 2 | 17/11/2026 | 30/11/2026 | Morador filtra serviços por categoria com ícones e acessa detalhes de contato | [Sprint 2](https://github.com/ooehT/BICOZ/milestone/3) |
 | 3 | 01/12/2026 | 14/12/2026 | Gerenciamento de categorias pelo Admin e filtro toggle de "Apenas Disponíveis" | [Sprint 3](https://github.com/ooehT/BICOZ/milestone/4) |
 | 4 | 15/12/2026 | 21/12/2026 | Testes de carga/usabilidade, correções finais de bugs e preparação para apresentação | [Sprint 4](https://github.com/ooehT/BICOZ/milestone/5) |

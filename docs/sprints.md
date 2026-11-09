@@ -5,8 +5,8 @@
 
 | Integrante | Papel na Sprint 1 |
 |------------|-------------------|
-| **Theo** | Product Owner / Desenvolvedor |
-| **Augusto** | Scrum Master / Desenvolvedor |
+| **Theo** | Desenvolvedor |
+| **Augusto** | Desenvolvedor |
 | **Jordan** | Desenvolvedor |
 
 ## 2. Calendário e Milestones

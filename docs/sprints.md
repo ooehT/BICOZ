@@ -27,11 +27,8 @@ Todos os milestones: <https://github.com/ooehT/BICOZ/milestones>
 | História | Tarefas | Responsável | Issue |
 |----------|---------|-------------|-------|
 | H01 | Criar endpoint/API para alternar status (Disponível/Ocupado) no banco de dados | Theo | #1 |
-| H01 | Desenvolver componente visual do botão de status (verde/vermelho) na dashboard do prestador | Jordan | #2 |
-| H02 | Implementar formulário de perfil profissional com validação estrita de telefone (11 dígitos) | Augusto | #3 |
-| H02 | Configurar tabela de usuários/prestadores e integração com lista predefinida de ofícios | Theo | #4 |
-| H03 | Desenvolver algoritmo de ordenação da listagem priorizando prestadores com status "Disponível" | Augusto | #5 |
-| H03 | Estilizar cards de prestadores "Ocupados" com visualização acinzentada no final da lista | Jordan | #6 |
+| H02| Desenvolver componente visual do botão de status (verde/vermelho) na dashboard do prestador | Jordan | #2 |
+| H03 | Implementar formulário de perfil profissional com validação estrita de telefone (11 dígitos) | Augusto | #3 |
 
 ### Sprints seguintes
 As Sprints 2, 3 e 4 têm apenas o objetivo definido na tabela acima. O backlog de cada uma será detalhado no planejamento da própria sprint, e esta seção será atualizada nesse momento.
